@@ -27,7 +27,7 @@ void securitySystem();
 void analyzeHouseStatus();
 
 int main() {
-    
+    printf("hello world");    
 
     return 0;
 }
